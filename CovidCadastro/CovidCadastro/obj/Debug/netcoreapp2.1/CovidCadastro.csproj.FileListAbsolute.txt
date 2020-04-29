@@ -1,0 +1,14 @@
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\bin\Debug\netcoreapp2.1\CovidCadastro.deps.json
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\bin\Debug\netcoreapp2.1\CovidCadastro.runtimeconfig.json
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\bin\Debug\netcoreapp2.1\CovidCadastro.runtimeconfig.dev.json
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\bin\Debug\netcoreapp2.1\CovidCadastro.dll
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\bin\Debug\netcoreapp2.1\CovidCadastro.pdb
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.csprojAssemblyReference.cache
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.csproj.CoreCompileInputs.cache
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.RazorAssemblyInfo.cache
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.RazorAssemblyInfo.cs
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.AssemblyInfoInputs.cache
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.AssemblyInfo.cs
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.RazorTargetAssemblyInfo.cache
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.dll
+C:\Users\gui_t\source\repos\CovidCadastro\CovidCadastro\obj\Debug\netcoreapp2.1\CovidCadastro.pdb
